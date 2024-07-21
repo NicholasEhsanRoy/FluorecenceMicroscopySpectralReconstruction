@@ -5,7 +5,7 @@ Repository for the code base of the Artificial Intelligence Bachelor's Project o
 
 Python Version: 3.10.12
 
-CUDA Version: 12.1
+CUDA Version: 12.3
 
 See requirements.txt to see versions of python library versions used.
 Can install using pip install -r requirements.txt 
